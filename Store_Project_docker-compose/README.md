@@ -1,4 +1,4 @@
-It's a Simple Docker-compose Script
+**It's a Simple Docker-compose Script**
 
 To Run by using:
 "docker-compose up"
